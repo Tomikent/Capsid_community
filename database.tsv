@@ -1,0 +1,15 @@
+Name	Type 	Link	Reference link	Release 	Note
+PHROG 	Orthologue db	https://phrogs.lmge.uca.fr/	https://academic.oup.com/nargab/article/3/3/lqab067/6342220	2021	MMseqs2/hhblits search
+pVOGs	Orthologue db	http://dmk-brain.ecn.uiowa.edu/pVOGs/downloads.html	https://academic.oup.com/nar/article/45/D1/D491/2333930	2016	Link expired?
+Virus-Host DB	Host / Genomes	https://www.genome.jp/virushostdb/	https://www.mdpi.com/1999-4915/8/3/66	2022	
+ICTV 	Taxonomy	https://ictv.global/taxonomy	https://academic.oup.com/nar/article/46/D1/D708/4508876	2021(initial 2018)	
+IMG/VR	Genomes	https://img.jgi.doe.gov/vr	https://academic.oup.com/nar/article/49/D1/D764/5952208	2021	
+IVirus	pipeline/tools	https://www.ivirus.us/	https://www.nature.com/articles/s43705-021-00083-3	2021	ver2
+VirHostNet 	virus/host molecular interactions	https://virhostnet.prabi.fr/	https://academic.oup.com/nar/article/43/D1/D583/2437900	2022	ver3
+CRISPRCasdb 	CRISPR cas	https://crisprcas.i2bc.paris-saclay.fr/	https://academic.oup.com/nar/article/48/D1/D535/5590637	2019	
+CrisprOpenDB	CRISPR cas	https://github.com/edzuf/CrisprOpenDB	https://academic.oup.com/nar/article/49/6/3127/6157093#233788514	2021	
+inphared	Genomes	https://github.com/RyanCook94/inphared)	https://www.liebertpub.com/doi/10.1089/phage.2021.0007	2021	
+VOG db	Orthologue db	https://vogdb.org/			
+VPFs 	Orthologue db	https://portal.nersc.gov/dna/microbial/prokpubs/EarthVirome_DP/	https://www.nature.com/articles/nprot.2017.063		
+efam	Orthologue db	https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Zayed_efam_2020.1	https://academic.oup.com/bioinformatics/article/37/22/4202/6300514#312931372		
+ViPhOGs 	Orthologue db	https://osf.io/2zd9r/	https://www.mdpi.com/1999-4915/13/6/1164		
