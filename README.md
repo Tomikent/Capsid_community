@@ -15,37 +15,38 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 ## ウイルス（ファージ）配列の予測
 |Name|Prophage detection|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|:----|
-|VirSorter2|笳|https://github.com/jiarong/VirSorter2|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00990-y|https://kazumaxneo.hatenablog.com/entry/2021/03/07/073000|2021| |
-|DeepMicrobeFinder|笘|https://github.com/chengsly/DeepMicrobeFinder|https://www.biorxiv.org/content/10.1101/2021.10.26.466018v1|https://kazumaxneo.hatenablog.com/entry/2021/11/12/080714|2021| |
-|VIBRANT|笳|https://github.com/AnantharamanLab/VIBRANT|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00867-0|https://kazumaxneo.hatenablog.com/entry/2020/06/14/175750|2021|AMG prediction|
-|VirSorter|笳|https://github.com/simroux/VirSorter|https://peerj.com/articles/985/|https://kazumaxneo.hatenablog.com/entry/2019/01/10/103631|2015| |
+|VirSorter2|○|https://github.com/jiarong/VirSorter2|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00990-y|https://kazumaxneo.hatenablog.com/entry/2021/03/07/073000|2021| |
+|DeepMicrobeFinder|☓|https://github.com/chengsly/DeepMicrobeFinder|https://www.biorxiv.org/content/10.1101/2021.10.26.466018v1|https://kazumaxneo.hatenablog.com/entry/2021/11/12/080714|2021| |
+|VIBRANT|○|https://github.com/AnantharamanLab/VIBRANT|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00867-0|https://kazumaxneo.hatenablog.com/entry/2020/06/14/175750|2021|AMG prediction|
+|VirSorter|○|https://github.com/simroux/VirSorter|https://peerj.com/articles/985/|https://kazumaxneo.hatenablog.com/entry/2019/01/10/103631|2015| |
 |PPR-Meta| |https://github.com/zhenchengfang/PPR-Meta|https://academic.oup.com/gigascience/article/8/6/giz066/5521157|https://kazumaxneo.hatenablog.com/entry/2019/10/09/234533|2019| |
-|Prophinder |笳| http://aclame.ulb.ac.be/prophinder|https://academic.oup.com/bioinformatics/article/24/6/863/194494| |2008| |
+|Prophinder |○| http://aclame.ulb.ac.be/prophinder|https://academic.oup.com/bioinformatics/article/24/6/863/194494| |2008| |
 |Phage_Finder| |http://phage-finder.sourceforge.net/|https://academic.oup.com/nar/article/34/20/5839/3100473| |2006| |
-|PhiSpy|笳|https://github.com/linsalrob/PhiSpy|https://academic.oup.com/nar/article/40/16/e126/1027055| |2012| |
-|PHASTER|笳|https://phaster.ca/|https://academic.oup.com/nar/article/44/W1/W16/2499364| |2016|PHAST, PHASTER and PHASTEST縺ｿ縺溘＞縺ｪ隲匁枚縺ｯ縺ゅｋ縺悟ｮ滄圀縺ｫ縺ｯPHASTEST縺ｯ蜈ｨ縺上Μ繝ｪ繝ｼ繧ｹ縺輔ｌ縺ｦ縺↑縺(髢狗匱荳ｭｼ)|
-|ProphET|笳|https://github.com/jaumlrc/ProphET|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223364| | | |
+|PhiSpy|○|https://github.com/linsalrob/PhiSpy|https://academic.oup.com/nar/article/40/16/e126/1027055| |2012| |
+|PHASTER|○|https://phaster.ca/|https://academic.oup.com/nar/article/44/W1/W16/2499364| |2016|PHAST, PHASTER and PHASTESTみたいな論文はあるが実際にはPHASTESTは全くリリースされていない(開発中？)|
+|ProphET|○|https://github.com/jaumlrc/ProphET|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223364| | | |
 |MARVEL | |https://github.com/LaboratorioBioinformatica/MARVEL|https://www.frontiersin.org/articles/10.3389/fgene.2018.00304/full| |2018| |
 |VIROME| |http://virome.dbi.udel.edu/| | | | |
 |Metavir 2| |http://metavir-meb.univ-bpclermont.fr/|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-76| | |expired?|
 |VirFinder | |https://github.com/jessieren/VirFinder|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0283-5| | | |
 |VirMiner| |https://github.com/TingtZHENG/VirMiner|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0657-y|https://kazumaxneo.hatenablog.com/entry/2019/06/03/221724| | |
 |RabbitV| |https://github.com/RabbitBio/RabbitUniq|https://academic.oup.com/bioinformatics/article/38/10/2932/6554196|https://kazumaxneo.hatenablog.com/entry/2022/04/30/004538|2022| |
-|viralFlye| |https://github.com/Dmitry-Antipov/viralFlye|https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02566-x|https://kazumaxneo.hatenablog.com/entry/2022/02/24/234605|2022|繝ｭ繝ｳ繧ｰ繝ｪ繝ｼ繝|
+|viralFlye| |https://github.com/Dmitry-Antipov/viralFlye|https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02566-x|https://kazumaxneo.hatenablog.com/entry/2022/02/24/234605|2022|ロングリード|
 |fastv| |https://github.com/OpenGene/fastv|https://academic.oup.com/bib/article/22/2/924/5917007]|https://kazumaxneo.hatenablog.com/entry/2021/07/10/224445|2021|Not for phages?|
 |CheckV| |https://bitbucket.org/berkeleylab/CheckV|https://www.nature.com/articles/s41587-020-00774-7|https://kazumaxneo.hatenablog.com/entry/2020/05/09/073000|2021|quality check|
 |metaviralSPAdes| |https://github.com/ablab/spades/tree/metaviral_publication| |https://kazumaxneo.hatenablog.com/entry/2020/05/23/235524| |viralVerify|
 |ViralRecall| |https://github.com/faylward/viralrecall|https://www.mdpi.com/1999-4915/13/2/150| |2021|NCLDV|
-|ViBE| |https://github.com/DMnBI/ViBE|https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbac204| |2022|eukaryotichafeZ|笳|https://github.com/Chrisjrt/hafeZ.|https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1| |2021| |
-|Phigaro|笳|https://github.com/bobeobibo/phigaro|https://academic.oup.com/bioinformatics/article/36/12/3882/5822875| |2020| |
-|PhageBoost|笳|https://github.com/ku-cbd/PhageBoost|https://academic.oup.com/nargab/article/3/1/lqaa109/6066536#222619888| |2020| |
-|DBSCAN-SWA|笳|https://github.com/HIT-ImmunologyLab/DBSCAN-SWA/|https://www.frontiersin.org/articles/10.3389/fgene.2022.885048/full|https://kazumaxneo.hatenablog.com/entry/2020/08/20/230110|2022| |
+|ViBE| |https://github.com/DMnBI/ViBE|https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbac204| |2022|eukaryotichafeZ|○|https://github.com/Chrisjrt/hafeZ.|https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1| |2021| |
+|Phigaro|○|https://github.com/bobeobibo/phigaro|https://academic.oup.com/bioinformatics/article/36/12/3882/5822875| |2020| |
+|PhageBoost|○|https://github.com/ku-cbd/PhageBoost|https://academic.oup.com/nargab/article/3/1/lqaa109/6066536#222619888| |2020| |
+|DBSCAN-SWA|○|https://github.com/HIT-ImmunologyLab/DBSCAN-SWA/|https://www.frontiersin.org/articles/10.3389/fgene.2022.885048/full|https://kazumaxneo.hatenablog.com/entry/2020/08/20/230110|2022| |
 |DeePhage| |https://github.com/shufangwu/DeePhage|https://academic.oup.com/gigascience/article/10/9/giab056/6366926| |2021| |
 |ViromeScan| |http://sourceforge.net/projects/viromescan/|https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2446-3| |2016| |
 |DeepVirFinder| |https://github.com/jessieren/DeepVirFinder|https://link.springer.com/article/10.1007/s40484-019-0187-4| |2020| |
 |vRhyme| |https://github.com/AnantharamanLab/vRhyme|https://academic.oup.com/nar/article/50/14/e83/6584432| | |binningProphage Hunter| |https://pro-hunter.bgi.com/|https://academic.oup.com/nar/article/47/W1/W74/5494712| |2019| |
 |MetaPhage| |https://github.com/MattiaPandolfoVR/MetaPhage|https://journals.asm.org/doi/10.1128/msystems.00741-22| |2022| |
 |Deep6| |https://github.com/janfelix/Deep6|https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1| |2022|Metatranscriptomic Sequences |
+
 
 ## 遺伝子アノテーション
 
@@ -56,10 +57,11 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |MetaPop|population analysis|https://github.com/metaGmetapop/metapop|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01231-0|https://kazumaxneo.hatenablog.com/entry/2021/03/04/084538|2022| |
 |VIGOR|gene anotation|https://github.com/JCVenterInstitute/VIGOR4|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-451|https://kazumaxneo.hatenablog.com/entry/2020/11/13/225137|2022(latest)|Eukaryotic virus?|
 |VADR|gene anotation|https://github.com/nawrockie/vadr|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3537-3| |2020| |
-|pharokka|gene anotation|https://github.com/gbouras13/pharokka| |https://kazumaxneo.hatenablog.com/entry/2022/07/03/220509| |PHANOTATEﾃ猶HROGs|
+|pharokka|gene anotation|https://github.com/gbouras13/pharokka| |https://kazumaxneo.hatenablog.com/entry/2022/07/03/220509| |PHANOTATE×PHROGs|
 |PHANOTATE |gene prediction|https://github.com/deprekate/PHANOTATE|https://academic.oup.com/bioinformatics/article/35/22/4537/5480131|https://kazumaxneo.hatenablog.com/entry/2019/05/30/073000| | |
 |MetaPhage|gene anotation|https://github.com/MattiaPandolfoVR/MetaPhage|https://www.biorxiv.org/content/10.1101/2022.04.17.488583v1|https://kazumaxneo.hatenablog.com/entry/2022/04/23/124539| | |
 |VirionFinder|virion proteins identification|https://github.com/zhenchengfang/VirionFinder|https://www.frontiersin.org/articles/10.3389/fmicb.2021.615711/full| |2021| |
+
 
 ## 配列のClassification (系統分類)
 |Name|Link|Reference link|Kazumax|Release |Note|
@@ -75,6 +77,7 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |Classiphage |http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.mdpi.com/1999-4915/11/2/195| | | |
 |VIRify |https://github.com/EBI-Metagenomics/emg-viral-pipelinee| | | | |
 |ClassiPhages 2.0|http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.biorxiv.org/content/10.1101/558171v1| | | |
+
 
 ## 宿主予測
 |Name|Link|Reference link|Kazumax|Release |Note|
@@ -92,7 +95,6 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |PHISDetector |http://www.microbiome-bigdata.com/PHISDetector/|https://www.biorxiv.org/content/10.1101/661074v2| | | |
 |Host Taxon Predictor (HTP)|https://github.com/wojciech-galan/viruses_classifier|https://www.nature.com/articles/s41598-019-39847-2| | | |
 
-
 ## CRISPR同定
 |Name|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|
@@ -107,8 +109,6 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |CRT |http://www.room220.com/crt//|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-209| |2007| |
 |PILER-CR |http://www.drive5.com/pilercr.|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-18| |2007| |
 |CRISPRleader |https://github.com/BackofenLab/CRISPRleader|https://doi.org/10.1093/bioinformatics/btw454| |2016| |
-
-
 
 ## データベース
 |Name|Type |Link|Reference link|Release |Note|
@@ -127,3 +127,4 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |VPFs |Orthologue db|https://portal.nersc.gov/dna/microbial/prokpubs/EarthVirome_DP/|https://www.nature.com/articles/nprot.2017.063| | |
 |efam|Orthologue db|https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Zayed_efam_2020.1|https://academic.oup.com/bioinformatics/article/37/22/4202/6300514#312931372| | |
 |ViPhOGs |Orthologue db|https://osf.io/2zd9r/|https://www.mdpi.com/1999-4915/13/6/1164| | |
+
