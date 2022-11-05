@@ -8,7 +8,7 @@
 Capsid Communityは、環境ウイルス分野のツールをまとめ、(今後)比較することで、そのような課題を解決する場になることを目指したコミュニティです。
 気軽にContributeしてください。
 Contributeの仕方がわからない場合は、Issueにコメントいただけますと、リストに加えます。カプシドタンパクが自己集合するように、研究に役立つ
-知識が自己集合するコミュニティとなることを願っています。
+知識が自己集合するコミュニティとなることを願っています。  
 In recent years, a large number of bioinformatics tools have been reported in the field of environmental virology. Thus, the selection of tools for researchers is getting more and more difficult, and it is a high barrier to entering this field for newcomers. 
 The “Capsid Community” aims to be a place where such issues can be resolved by gathering information of the tools and (in the future comparing them). Please feel free to contribute to Capsid Community. If you do not know how to contribute github, please comment on the issue and we will add you to the list. We hope that this community will be a place where knowledge useful for research can self-assemble, just as capsid proteins self-assemble.
 
