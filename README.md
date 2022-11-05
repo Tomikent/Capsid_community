@@ -17,7 +17,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 # Tools
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
-|Name|Prophage detection|Link|Reference link|Kazumax|Release |Note|
+|Name|Prophage detection|Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
 |:----|:----|:----|:----|:----|:----|:----|
 |VirSorter2|○|https://github.com/jiarong/VirSorter2|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00990-y|https://kazumaxneo.hatenablog.com/entry/2021/03/07/073000|2021| |
 |DeepMicrobeFinder|☓|https://github.com/chengsly/DeepMicrobeFinder|https://www.biorxiv.org/content/10.1101/2021.10.26.466018v1|https://kazumaxneo.hatenablog.com/entry/2021/11/12/080714|2021| |
@@ -54,7 +54,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
 
-|Name|Type |Link|Reference link|Kazumax|Release |Note|
+|Name|Type |Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
 |:----|:----|:----|:----|:----|:----|:----|
 |DRAM|AMG setection|https://github.com/WrightonLabCSU/DRAM|https://academic.oup.com/nar/article/48/16/8883/5884738|https://kazumaxneo.hatenablog.com/entry/2022/02/10/000615|2020| |
 |VIBRANT|AMG prediction|https://github.com/AnantharamanLab/VIBRANT|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00867-0|https://kazumaxneo.hatenablog.com/entry/2020/06/14/175750|2021| |
@@ -68,7 +68,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 
 
 ## 配列のClassification (系統分類) Taxonomic classification of viral sequences
-|Name|Link|Reference link|Kazumax|Release |Note|
+|Name|Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |Vcontact2|https://bitbucket.org/MAVERICLab/vcontact2/wiki/Home|https://www.nature.com/articles/s41587-019-0100-8|https://kazumaxneo.hatenablog.com/entry/2019/09/21/235859|2019| |
 |ViPTree|https://www.genome.jp/viptree/|https://academic.oup.com/bioinformatics/article/33/15/2379/3096426| |2017| |
@@ -84,7 +84,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 
 
 ## 宿主予測 Host prediction
-|Name|Link|Reference link|Kazumax|Release |Note|
+|Name|Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |iPHoP|https://bitbucket.org/srouxjgi/iphop/src/main/|https://www.biorxiv.org/content/10.1101/2022.07.28.501908v1| |2022| |
 |WIsH|https://github.com/soedinglab/wish|https://academic.oup.com/bioinformatics/article/33/19/3113/3964377| |2017| |
@@ -100,7 +100,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |Host Taxon Predictor (HTP)|https://github.com/wojciech-galan/viruses_classifier|https://www.nature.com/articles/s41598-019-39847-2| | | |
 
 ## CRISPR同定 Identification of host CRISPR sequces 
-|Name|Link|Reference link|Kazumax|Release |Note|
+|Name|Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |CRISPRDetect|http://crispr.otago.ac.nz/CRISPRDetect/predict_crispr_array.html|https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2627-0|https://kazumaxneo.hatenablog.com/entry/2019/12/15/130706|2016| |
 |MinCED |https://github.com/ctSkennerton/minced| | | | |
