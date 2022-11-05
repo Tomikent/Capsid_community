@@ -9,12 +9,14 @@ Capsid Communityは、環境ウイルス分野のツールをまとめ、(今後
 気軽にContributeしてください。
 Contributeの仕方がわからない場合は、Issueにコメントいただけますと、リストに加えます。カプシドタンパクが自己集合するように、研究に役立つ
 知識が自己集合するコミュニティとなることを願っています。
+In recent years, a large number of bioinformatics tools have been reported in the field of environmental virology. Thus, the selection of tools for researchers is getting more and more difficult, and it is a high barrier to entering this field for newcomers. 
+The “Capsid Community” aims to be a place where such issues can be resolved by gathering information of the tools and (in the future comparing them). Please feel free to contribute to Capsid Community. If you do not know how to contribute github, please comment on the issue and we will add you to the list. We hope that this community will be a place where knowledge useful for research can self-assemble, just as capsid proteins self-assemble.
 
 
 
 # Tools
 
-## ウイルス（ファージ）配列の予測
+## ウイルス（ファージ）配列の予測(Prediction of viral　and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|:----|
 |VirSorter2|○|https://github.com/jiarong/VirSorter2|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00990-y|https://kazumaxneo.hatenablog.com/entry/2021/03/07/073000|2021| |
@@ -50,7 +52,7 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |Deep6| |https://github.com/janfelix/Deep6|https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1| |2022|Metatranscriptomic Sequences |
 
 
-## 遺伝子アノテーション
+## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
 
 |Name|Type |Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -65,7 +67,7 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |VirionFinder|virion proteins identification|https://github.com/zhenchengfang/VirionFinder|https://www.frontiersin.org/articles/10.3389/fmicb.2021.615711/full| |2021| |
 
 
-## 配列のClassification (系統分類)
+## 配列のClassification (系統分類) Taxonomic classification of viral sequences
 |Name|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |Vcontact2|https://bitbucket.org/MAVERICLab/vcontact2/wiki/Home|https://www.nature.com/articles/s41587-019-0100-8|https://kazumaxneo.hatenablog.com/entry/2019/09/21/235859|2019| |
@@ -81,7 +83,7 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |ClassiPhages 2.0|http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.biorxiv.org/content/10.1101/558171v1| | | |
 
 
-## 宿主予測
+## 宿主予測 Host prediction
 |Name|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |iPHoP|https://bitbucket.org/srouxjgi/iphop/src/main/|https://www.biorxiv.org/content/10.1101/2022.07.28.501908v1| |2022| |
@@ -97,7 +99,7 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |PHISDetector |http://www.microbiome-bigdata.com/PHISDetector/|https://www.biorxiv.org/content/10.1101/661074v2| | | |
 |Host Taxon Predictor (HTP)|https://github.com/wojciech-galan/viruses_classifier|https://www.nature.com/articles/s41598-019-39847-2| | | |
 
-## CRISPR同定
+## CRISPR同定 Identification of host CRISPR sequces 
 |Name|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |CRISPRDetect|http://crispr.otago.ac.nz/CRISPRDetect/predict_crispr_array.html|https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2627-0|https://kazumaxneo.hatenablog.com/entry/2019/12/15/130706|2016| |
@@ -112,7 +114,7 @@ Contributeの仕方がわからない場合は、Issueにコメントいただ�
 |PILER-CR |http://www.drive5.com/pilercr.|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-18| |2007| |
 |CRISPRleader |https://github.com/BackofenLab/CRISPRleader|https://doi.org/10.1093/bioinformatics/btw454| |2016| |
 
-## データベース
+## データベース Databases related to virology
 |Name|Type |Link|Reference link|Release |Note|
 |:----|:----|:----|:----|:----|:----|
 |PHROG |Orthologue db|https://phrogs.lmge.uca.fr/|https://academic.oup.com/nargab/article/3/3/lqab067/6342220|2021|MMseqs2/hhblits search|
