@@ -15,7 +15,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 
 # Tools
 
-## ウイルス（ファージ）配列の予測(Prediction of viral　and prophage sequences)
+## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release |Note|
 |:----|:----|:----|:----|:----|:----|:----|
 |VirSorter2|○|https://github.com/jiarong/VirSorter2|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00990-y|https://kazumaxneo.hatenablog.com/entry/2021/03/07/073000|2021| |
