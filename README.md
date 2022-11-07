@@ -133,3 +133,13 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |efam|Orthologue db|https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Zayed_efam_2020.1|https://academic.oup.com/bioinformatics/article/37/22/4202/6300514#312931372| | |
 |ViPhOGs |Orthologue db|https://osf.io/2zd9r/|https://www.mdpi.com/1999-4915/13/6/1164| | |
 
+## プラスミド様配列の検出 Plasmid detection
+|Name|Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
+|:----|:----|:----|:----|:----|:----|:----|
+|RFplasmid |https://github.com/aldertzomer/RFPlasmid|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000683|https://kazumaxneo.hatenablog.com/entry/2020/09/29/233000|2021||
+|PlasFlow |https://github.com/smaegol/PlasFlow|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/05/11/073000|2018||
+|PlassClass |https://github.com/Shamir-Lab/PlasClass|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/10/21/073000|2020||
+|metaplasmidSPAdes  |https://github.com/ablab/spades/releases|https://genome.cshlp.org/content/29/6/961.long|https://kazumaxneo.hatenablog.com/entry/2019/06/05/073000|2019||
+|PlasmidSeeker |https://github.com/bioinfo-ut/PlasmidSeeker|https://peerj.com/articles/4588/|https://kazumaxneo.hatenablog.com/entry/2018/05/28/203726|2018||
+|Recycler |https://github.com/Shamir-Lab/Recycler|https://academic.oup.com/bioinformatics/article/33/4/475/2623362|https://kazumaxneo.hatenablog.com/entry/2017/08/27/233654|2018||
+
