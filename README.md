@@ -135,7 +135,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 
 ## プラスミド様配列の検出 Plasmid detection
 |Name|Link|Reference link|Kazumax(for Japanese beginner)|Release |Note|
-|:----|:----|:----|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|:----|
 |RFplasmid |https://github.com/aldertzomer/RFPlasmid|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000683|https://kazumaxneo.hatenablog.com/entry/2020/09/29/233000|2021||
 |PlasFlow |https://github.com/smaegol/PlasFlow|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/05/11/073000|2018||
 |PlassClass |https://github.com/Shamir-Lab/PlasClass|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/10/21/073000|2020||
