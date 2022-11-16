@@ -51,7 +51,11 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |vRhyme| |https://github.com/AnantharamanLab/vRhyme|https://academic.oup.com/nar/article/50/14/e83/6584432| | |binningProphage Hunter| |https://pro-hunter.bgi.com/|https://academic.oup.com/nar/article/47/W1/W74/5494712| |2019| |
 |MetaPhage| |https://github.com/MattiaPandolfoVR/MetaPhage|https://journals.asm.org/doi/10.1128/msystems.00741-22| |2022| |
 |Deep6| |https://github.com/janfelix/Deep6|https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1| |2022|Metatranscriptomic Sequences |
-
+|Phanta| |https://github.com/bhattlab/phanta|https://www.biorxiv.org/content/10.1101/2022.08.05.502982v1| |2022| |
+|ViromeQC| |https://github.com/SegataLab/viromeqc|https://www.nature.com/articles/s41587-019-0334-5| |2022|Detecting contamination in viromes|
+|PropagAtE|○|https://github.com/AnantharamanLab/PropagAtE|https://journals.asm.org/doi/10.1128/msystems.00084-22| |2022|Detecting active prophages|
+|PhageAI ||https://github.com/AnantharamanLab/PropagAtE|https://www.biorxiv.org/content/10.1101/2020.07.11.198606v1| |2022||
+|BACPHLIP||https://github.com/adamhockenberry/bacphlip|https://peerj.com/articles/11396/| |2021||
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
 
@@ -82,6 +86,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |Classiphage |http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.mdpi.com/1999-4915/11/2/195| | | |
 |VIRify |https://github.com/EBI-Metagenomics/emg-viral-pipelinee| | | | |
 |ClassiPhages 2.0|http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.biorxiv.org/content/10.1101/558171v1| | | |
+|PhageClouds|https://phageclouds.ku.dk/|https://www.liebertpub.com/doi/full/10.1089/phage.2021.0008| | | |
 
 
 ## 宿主予測 Host prediction
