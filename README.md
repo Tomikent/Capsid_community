@@ -56,7 +56,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PropagAtE|○|https://github.com/AnantharamanLab/PropagAtE|https://journals.asm.org/doi/10.1128/msystems.00084-22| |2022|Detecting active prophages|
 |PhageAI ||https://github.com/AnantharamanLab/PropagAtE|https://www.biorxiv.org/content/10.1101/2020.07.11.198606v1| |2022||
 |BACPHLIP||https://github.com/adamhockenberry/bacphlip|https://peerj.com/articles/11396/| |2021||
-|SourceFinder||https://cge.food.dtu.dk/services/SourceFinder/|https://journals.asm.org/doi/10.1128/spectrum.02641-22| |2022||
+|SourceFinder||https://cge.food.dtu.dk/services/SourceFinder/|https://journals.asm.org/doi/10.1128/spectrum.02641-22| |2022|Identification of Chromosomal, Plasmid, and Bacteriophage Sequences|
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
 
