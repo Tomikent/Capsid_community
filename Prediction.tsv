@@ -1,3 +1,4 @@
+## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 Name	Prophage detection	Link	Reference link	Kazumax	Release	Note
 VirSorter2	○	https://github.com/jiarong/VirSorter2	https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00990-y	https://kazumaxneo.hatenablog.com/entry/2021/03/07/073000	2021	
 DeepMicrobeFinder	☓	https://github.com/chengsly/DeepMicrobeFinder	https://www.biorxiv.org/content/10.1101/2021.10.26.466018v1	https://kazumaxneo.hatenablog.com/entry/2021/11/12/080714	2021	
@@ -20,7 +21,7 @@ fastv		https://github.com/OpenGene/fastv	https://academic.oup.com/bib/article/22
 CheckV		https://bitbucket.org/berkeleylab/CheckV	https://www.nature.com/articles/s41587-020-00774-7	https://kazumaxneo.hatenablog.com/entry/2020/05/09/073000	2021	quality check
 metaviralSPAdes		https://github.com/ablab/spades/tree/metaviral_publication		https://kazumaxneo.hatenablog.com/entry/2020/05/23/235524		viralVerify
 ViralRecall		https://github.com/faylward/viralrecall	https://www.mdpi.com/1999-4915/13/2/150		2021	NCLDV
-ViBE		https://github.com/DMnBI/ViBE	https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbac204		2022	eukaryotic 
+ViBE		https://github.com/DMnBI/ViBE	https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbac204		2022	eukaryotic
 hafeZ	○	https://github.com/Chrisjrt/hafeZ.	https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1		2021	
 Phigaro	○	https://github.com/bobeobibo/phigaro	https://academic.oup.com/bioinformatics/article/36/12/3882/5822875		2020	
 PhageBoost	○	https://github.com/ku-cbd/PhageBoost	https://academic.oup.com/nargab/article/3/1/lqaa109/6066536#222619888		2020	
@@ -28,7 +29,7 @@ DBSCAN-SWA	○	https://github.com/HIT-ImmunologyLab/DBSCAN-SWA/	https://www.fron
 DeePhage		https://github.com/shufangwu/DeePhage	https://academic.oup.com/gigascience/article/10/9/giab056/6366926		2021	
 ViromeScan		http://sourceforge.net/projects/viromescan/	https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2446-3		2016	
 DeepVirFinder		https://github.com/jessieren/DeepVirFinder	https://link.springer.com/article/10.1007/s40484-019-0187-4		2020	
-vRhyme		https://github.com/AnantharamanLab/vRhyme	https://academic.oup.com/nar/article/50/14/e83/6584432			binning 
+vRhyme		https://github.com/AnantharamanLab/vRhyme	https://academic.oup.com/nar/article/50/14/e83/6584432			binning
 Prophage Hunter		https://pro-hunter.bgi.com/	https://academic.oup.com/nar/article/47/W1/W74/5494712		2019	
 MetaPhage		https://github.com/MattiaPandolfoVR/MetaPhage	https://journals.asm.org/doi/10.1128/msystems.00741-22		2022	
-Deep6		https://github.com/janfelix/Deep6	https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1		2022	Metatranscriptomic Sequences 
+Deep6		https://github.com/janfelix/Deep6	https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1		2022	Metatranscriptomic Sequences
