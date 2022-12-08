@@ -18,7 +18,7 @@ jobs:
           pip install datetime
       - name: run python
         run: |
-          python ./scripts/update_reademe.py
+          python ./scripts/update_readme.py
       - name: commit files
         run: |
           mv ./scripts/README.md .
