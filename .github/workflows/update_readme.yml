@@ -1,15 +1,12 @@
 name: update READEME
 on:
-  pull_request:
-    branches:
-      - main
   push:
     branches:
       - main
 jobs:
   readme:
     runs-on: ubuntu-latest
-  steps:
+    steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
