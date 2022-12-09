@@ -1,4 +1,3 @@
-## データベース Databases related to virology
 Name	Type	Link	Reference link	Release	Note
 PHROG	Orthologue db	https://phrogs.lmge.uca.fr/	https://academic.oup.com/nargab/article/3/3/lqab067/6342220	2021	MMseqs2/hhblits search
 pVOGs	Orthologue db	http://dmk-brain.ecn.uiowa.edu/pVOGs/downloads.html	https://academic.oup.com/nar/article/45/D1/D491/2333930	2016	Link expired?
