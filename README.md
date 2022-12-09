@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2022-12-09 10:39:16.350226+09:00 -->
+<!-- The tables below were automatically generated at the 2022-12-09 10:57:04.135198+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
