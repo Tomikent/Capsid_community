@@ -33,3 +33,9 @@ vRhyme		https://github.com/AnantharamanLab/vRhyme	https://academic.oup.com/nar/a
 Prophage Hunter		https://pro-hunter.bgi.com/	https://academic.oup.com/nar/article/47/W1/W74/5494712		2019	
 MetaPhage		https://github.com/MattiaPandolfoVR/MetaPhage	https://journals.asm.org/doi/10.1128/msystems.00741-22		2022	
 Deep6		https://github.com/janfelix/Deep6	https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1		2022	Metatranscriptomic Sequences
+Phanta		https://github.com/bhattlab/phanta	https://www.biorxiv.org/content/10.1101/2022.08.05.502982v1		2022		
+ViromeQC		https://github.com/SegataLab/viromeqc	https://www.nature.com/articles/s41587-019-0334-5		2022	Detecting contamination in viromes	
+PropagAtE	○	https://github.com/AnantharamanLab/PropagAtE	https://journals.asm.org/doi/10.1128/msystems.00084-22		2022	Detecting active prophages	
+PhageAI		https://github.com/AnantharamanLab/PropagAtE	https://www.biorxiv.org/content/10.1101/2020.07.11.198606v1		2022		
+BACPHLIP		https://github.com/adamhockenberry/bacphlip	https://peerj.com/articles/11396/		2021		
+SourceFinder		https://cge.food.dtu.dk/services/SourceFinder/	https://journals.asm.org/doi/10.1128/spectrum.02641-22		2022	Identification of Chromosomal, Plasmid, and Bacteriophage Sequences	
