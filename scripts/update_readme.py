@@ -1,5 +1,6 @@
 import glob
-import datetime
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 def tsv2table(tsv_paths):
     tables = ''
@@ -31,7 +32,7 @@ if __name__ == '__main__':
     output_path = './scripts/README.md'
     with open(readme_path, 'r') as f, open(output_path, 'w') as o:
 
-        date = datetime.datetime.now()
+        date = datetime.now(ZoneInfo('Asia/Tokyo'))
 
         tsv_paths = glob.glob('./*.tsv')
         tables = tsv2table(tsv_paths)
