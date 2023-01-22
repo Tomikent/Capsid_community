@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-01-11 14:09:08.575076+09:00 -->
+<!-- The tables below were automatically generated at the 2023-01-22 16:25:47.056839+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -61,6 +61,8 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |genomad||https://github.com/apcamargo/genomad|||2022|Used in IMG/VR ver4|
 |2023|
 |FastViromeExplorer-Novel||https://github.com/saima-tithi/FVE-novel|https://doi.org/10.1089/cmb.2022.0397||2023|
+|Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
+|Deep6||https://github.com/janfelix/Deep6|https://journals.asm.org/doi/10.1128/mra.01079-22||2023|
 
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
