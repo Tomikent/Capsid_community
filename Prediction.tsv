@@ -41,3 +41,5 @@ SourceFinder		https://cge.food.dtu.dk/services/SourceFinder/	https://journals.as
 genomad		https://github.com/apcamargo/genomad			2022	Used in IMG/VR ver4
     	  2023   	
 FastViromeExplorer-Novel		https://github.com/saima-tithi/FVE-novel	https://doi.org/10.1089/cmb.2022.0397		2023	
+Name	Prophage detection	Link	Reference link	Kazumax	Release	Note
+Deep6		https://github.com/janfelix/Deep6	https://journals.asm.org/doi/10.1128/mra.01079-22		2023	
