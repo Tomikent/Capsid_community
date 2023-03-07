@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-02-18 14:38:38.429848+09:00 -->
+<!-- The tables below were automatically generated at the 2023-03-07 19:09:44.996489+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -58,7 +58,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PhageAI||https://github.com/AnantharamanLab/PropagAtE|https://www.biorxiv.org/content/10.1101/2020.07.11.198606v1||2022|
 |BACPHLIP||https://github.com/adamhockenberry/bacphlip|https://peerj.com/articles/11396/||2021|
 |SourceFinder||https://cge.food.dtu.dk/services/SourceFinder/|https://journals.asm.org/doi/10.1128/spectrum.02641-22||2022|Identification of Chromosomal, Plasmid, and Bacteriophage Sequences|
-|genomad||https://github.com/apcamargo/genomad|||2022|Used in IMG/VR ver4|
+|genomad||https://github.com/apcamargo/genomad|https://www.biorxiv.org/content/10.1101/2023.03.05.531206v1||2022|Used in IMG/VR ver4|
 |FastViromeExplorer-Novel||https://github.com/saima-tithi/FVE-novel|https://doi.org/10.1089/cmb.2022.0397||2023|
 |Deep6||https://github.com/janfelix/Deep6|https://journals.asm.org/doi/10.1128/mra.01079-22||2023|
 |ViWrap||https://github.com/AnantharamanLab/ViWrap|https://www.biorxiv.org/content/10.1101/2023.01.30.526317v1||2023|
