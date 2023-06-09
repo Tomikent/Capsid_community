@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-05-16 21:32:52.899038+09:00 -->
+<!-- The tables below were automatically generated at the 2023-06-09 11:19:01.720043+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -61,7 +61,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |genomad||https://github.com/apcamargo/genomad|https://www.biorxiv.org/content/10.1101/2023.03.05.531206v1||2022|Used in IMG/VR ver4|
 |FastViromeExplorer-Novel||https://github.com/saima-tithi/FVE-novel|https://doi.org/10.1089/cmb.2022.0397||2023|
 |Deep6||https://github.com/janfelix/Deep6|https://journals.asm.org/doi/10.1128/mra.01079-22||2023|
-|ViWrap||https://github.com/AnantharamanLab/ViWrap|https://www.biorxiv.org/content/10.1101/2023.01.30.526317v1||2023|
+|ViWrap||https://github.com/AnantharamanLab/ViWrap|https://onlinelibrary.wiley.com/doi/10.1002/imt2.118||2023|
 |VirBot||https://github.com/GreyGuoweiChen/RNA_virus_detector|https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad093/7043093||2023|
 |seeker||https://github.com/gussow/seeker|https://doi.org/10.1093/nar/gkaa856||2020|
 |ViroProfiler||https://github.com/deng-lab/viroprofiler|https://doi.org/10.1080/19490976.2023.2192522||2023|
