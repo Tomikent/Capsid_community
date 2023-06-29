@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-06-09 11:19:01.720043+09:00 -->
+<!-- The tables below were automatically generated at the 2023-06-29 09:44:45.618209+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -119,6 +119,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |VHost-Classifier|https://academic.oup.com/bioinformatics/article/35/19/3867/5368011|https://github.com/Kzra/VHost-Classifier||2019|
 |ViralCC|https://www.nature.com/articles/s41467-023-35945-y|https://github.com/dyxstat/ViralCC||2023|
 |EvoMIL|https://www.biorxiv.org/content/10.1101/2023.04.07.536023v1|https://github.com/liudan111/EvoMIL||2023|Not avaiable yet|
+|GSPHI|https://www.sciencedirect.com/science/article/pii/S2001037023002271|http://120.77.11.78/GSPHI/||2023|
 
 
 ## CRISPR同定 Identification of host CRISPR sequces
