@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-07-20 09:38:22.808270+09:00 -->
+<!-- The tables below were automatically generated at the 2023-07-29 09:21:45.362287+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -80,6 +80,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PHANOTATE|gene prediction|https://github.com/deprekate/PHANOTATE|https://academic.oup.com/bioinformatics/article/35/22/4537/5480131|https://kazumaxneo.hatenablog.com/entry/2019/05/30/073000|
 |MetaPhage|gene anotation|https://github.com/MattiaPandolfoVR/MetaPhage|https://www.biorxiv.org/content/10.1101/2022.04.17.488583v1|https://kazumaxneo.hatenablog.com/entry/2022/04/23/124539|
 |VirionFinder|virion proteins identification|https://github.com/zhenchengfang/VirionFinder|https://www.frontiersin.org/articles/10.3389/fmicb.2021.615711/full||2021|
+|Phynteny|Synteny-based annotation|https://github.com/susiegriggo/Phynteny|||2023|
 
 
 ## 配列のClassification (系統分類) Taxonomic classification of viral sequences
