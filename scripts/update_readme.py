@@ -3,7 +3,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 tables = [
-    ('ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)', './Prediction.tsv'),
+    ('ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)', './Virus_prediction.tsv'),
     ('ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)', './Annotation.tsv'),
     ('配列のClassification (系統分類) Taxonomic classification of viral sequences', './Classifier.tsv'),
     ('宿主予測 Host prediction', './Host_prediction.tsv'),
