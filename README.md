@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-09-22 15:41:35.999161+09:00 -->
+<!-- The tables below were automatically generated at the 2023-10-05 13:44:07.921275+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -101,6 +101,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |ClassiPhages 2.0|http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.biorxiv.org/content/10.1101/558171v1|
 |PhageClouds|https://phageclouds.ku.dk/|https://www.liebertpub.com/doi/full/10.1089/phage.2021.0008|
 |VirClust|http://rhea.icbm.uni-oldenburg.de/virclust/|https://www.mdpi.com/1999-4915/15/4/1007|
+|PhamClust|https://github.com/chg60/phamclust|https://doi.org/10.1128/msystems.00443-23|2023|
 
 
 ## 宿主予測 Host prediction
