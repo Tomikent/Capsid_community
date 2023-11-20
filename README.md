@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-11-15 10:02:37.314573+09:00 -->
+<!-- The tables below were automatically generated at the 2023-11-20 19:23:03.428002+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -55,7 +55,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |Phanta||https://github.com/bhattlab/phanta|https://www.biorxiv.org/content/10.1101/2022.08.05.502982v1||2022|
 |ViromeQC||https://github.com/SegataLab/viromeqc|https://www.nature.com/articles/s41587-019-0334-5||2022|Detecting contamination in viromes|
 |PropagAtE|○|https://github.com/AnantharamanLab/PropagAtE|https://journals.asm.org/doi/10.1128/msystems.00084-22||2022|Detecting active prophages|
-|PhageAI||https://github.com/AnantharamanLab/PropagAtE|https://www.biorxiv.org/content/10.1101/2020.07.11.198606v1||2022|
+|PhageAI||https://phage.ai/|https://www.biorxiv.org/content/10.1101/2020.07.11.198606v1||2022|
 |BACPHLIP||https://github.com/adamhockenberry/bacphlip|https://peerj.com/articles/11396/||2021|
 |SourceFinder||https://cge.food.dtu.dk/services/SourceFinder/|https://journals.asm.org/doi/10.1128/spectrum.02641-22||2022|Identification of Chromosomal, Plasmid, and Bacteriophage Sequences|
 |genomad||https://portal.nersc.gov/genomad/|https://www.nature.com/articles/s41587-023-01953-y||2022|Used in IMG/VR ver4|
