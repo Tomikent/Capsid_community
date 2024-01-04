@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2023-12-06 13:19:23.883288+09:00 -->
+<!-- The tables below were automatically generated at the 2024-01-04 10:26:52.935361+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -129,7 +129,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PHPGCA|https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011671|https://github.com/JunPeng-Zhong/PHPGCA||2023|
 
 
-## CRISPR同定 Identification of host CRISPR sequces
+## CRISPR同定 Identification of host CRISPR sequences
 |Name|Link|Reference link|Kazumax|Release|Note|
 |:---|:---|:---|:---|:---|:---|
 |CRISPRDetect|http://crispr.otago.ac.nz/CRISPRDetect/predict_crispr_array.html|https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2627-0|https://kazumaxneo.hatenablog.com/entry/2019/12/15/130706|2016|
