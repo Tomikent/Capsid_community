@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2024-07-16 09:09:58.890443+09:00 -->
+<!-- The tables below were automatically generated at the 2024-07-16 09:10:42.864344+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -86,6 +86,9 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |Phynteny|Synteny-based annotation|https://github.com/susiegriggo/Phynteny|||2023|
 |VAPEX|web server for genome analysis|https://archaea.i2bc.paris-saclay.fr/vapex/||https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad528/7251032|2023|
 |VIBES|Prophage visualization |https://github.com/TravisWheelerLab/VIBES||https://www.biorxiv.org/content/10.1101/2023.10.17.562434v1|2023|
+|phold|gene anotation visualization |https://github.com/gbouras13/phold|||2024|
+||
+||
 
 
 ## 配列のClassification (系統分類) Taxonomic classification of viral sequences
