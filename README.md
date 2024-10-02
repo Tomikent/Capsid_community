@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2024-09-30 08:31:45.613837+09:00 -->
+<!-- The tables below were automatically generated at the 2024-10-02 09:12:30.533060+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -70,6 +70,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |ProkBERT||https://pypi.org/project/prokbert/|https://www.biorxiv.org/content/10.1101/2023.11.09.566411v1||2023|
 |VirRep||https://github.com/ZhaoXM-Lab/VirRep|https://link.springer.com/article/10.1186/s13059-024-03320-9||2024|
 |VirTAXA||https://github.com/JudithEllyn/VirTAXA|https://doi.org/10.1093/bioinformatics/btae575||2024|
+|MVP||https://gitlab.com/ccoclet/mvp|https://journals.asm.org/doi/full/10.1128/msystems.00888-24||2024|
 
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
