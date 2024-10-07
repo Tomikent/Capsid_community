@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2024-10-02 09:12:30.533060+09:00 -->
+<!-- The tables below were automatically generated at the 2024-10-08 08:13:15.077700+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -174,6 +174,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |efam|Orthologue db|https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Zayed_efam_2020.1|https://academic.oup.com/bioinformatics/article/37/22/4202/6300514#312931372|
 |ViPhOGs|Orthologue db|https://osf.io/2zd9r/|https://www.mdpi.com/1999-4915/13/6/1164|
 |PhageScope|annotation db|https://phagescope.deepomics.org/|https://doi.org/10.1093/nar/gkad979|
+|PhageDive|meta db|https://phagedive.dsmz.de/|https://doi.org/10.1093/nar/gkae878|
 
 
 ## プラスミド様配列の検出 Plasmid detection
