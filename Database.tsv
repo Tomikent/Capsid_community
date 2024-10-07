@@ -14,3 +14,4 @@ VPFs	Orthologue db	https://portal.nersc.gov/dna/microbial/prokpubs/EarthVirome_D
 efam	Orthologue db	https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Zayed_efam_2020.1	https://academic.oup.com/bioinformatics/article/37/22/4202/6300514#312931372		
 ViPhOGs	Orthologue db	https://osf.io/2zd9r/	https://www.mdpi.com/1999-4915/13/6/1164
 PhageScope	annotation db	https://phagescope.deepomics.org/	https://doi.org/10.1093/nar/gkad979		
+PhageDive	meta db	https://phagedive.dsmz.de/	https://doi.org/10.1093/nar/gkae878		
