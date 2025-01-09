@@ -7,7 +7,7 @@ tables = [
     ('ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)', './Annotation.tsv'),
     ('配列のClassification (系統分類) Taxonomic classification of viral sequences', './Classifier.tsv'),
     ('宿主予測 Host prediction', './Host_prediction.tsv'),
-    ('CRISPR同定 Identification of host CRISPR sequences', './CRISPR_detection.tsv'),
+    ('防御遺伝子の同定 Identification of host defense', './Defense_detection.tsv'),
     ('データベース Databases related to virology', './Database.tsv'),
     ('プラスミド様配列の検出 Plasmid detection', './Plasmid_detection.tsv'),
 ]
