@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2025-01-09 18:58:42.447337+09:00 -->
+<!-- The tables below were automatically generated at the 2025-01-09 19:03:47.140729+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -155,6 +155,9 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |CRT|http://www.room220.com/crt//|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-209||2007|
 |PILER-CR|http://www.drive5.com/pilercr.|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-18||2007|
 |CRISPRleader|https://github.com/BackofenLab/CRISPRleader|https://doi.org/10.1093/bioinformatics/btw454||2016|
+|PADLOC|https://padloc.otago.ac.nz/padloc/|https://doi.org/10.1093/nar/gkac400||2022|
+|DefenseFinder|https://github.com/mdmparis/defense-finder|https://www.nature.com/articles/s41467-022-30269-9||2022|
+|DefensePredictor|https://github.com/PeterDeWeirdt/defense_predictor|https://doi.org/10.1101/2025.01.08.631726||2024|
 
 
 ## データベース Databases related to virology
