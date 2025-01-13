@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2025-01-14 07:52:51.684528+09:00 -->
+<!-- The tables below were automatically generated at the 2025-01-14 07:56:09.837263+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -140,6 +140,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |EvoMIL|https://www.biorxiv.org/content/10.1101/2023.04.07.536023v1|https://github.com/liudan111/EvoMIL||2023|Not avaiable yet|
 |GSPHI|https://www.sciencedirect.com/science/article/pii/S2001037023002271|http://120.77.11.78/GSPHI/||2023|
 |PHPGCA|https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011671|https://github.com/JunPeng-Zhong/PHPGCA||2023|
+|EvoMIL |https://doi.org/10.1371/journal.pcbi.1012597|https://github.com/liudan111/EvoMIL||2024|
 |PHIStruct|https://doi.org/10.1093/bioinformatics/btaf016|https://github.com/bioinfodlsu/PHIStruct||2025|
 
 
