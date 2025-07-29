@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2025-07-26 23:01:15.471921+09:00 -->
+<!-- The tables below were automatically generated at the 2025-07-29 17:09:25.138376+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -105,7 +105,6 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |ViPTree|https://www.genome.jp/viptree/|https://academic.oup.com/bioinformatics/article/33/15/2379/3096426||2017|
 |VICTOR|https://ggdc.dsmz.de/victor.php||https://academic.oup.com/bioinformatics/article/33/21/3396/3933260|2017|
 |VIRIDIC|http://rhea.icbm.uni-oldenburg.de/VIRIDIC/|https://www.mdpi.com/1999-4915/12/11/1268||2020|
-|VirClust|http://rhea.icbm.uni-oldenburg.de/virclust/|https://www.biorxiv.org/content/10.1101/2021.06.14.448304v1||2021|
 |GRAViTy|http://gravity.cvr.gla.ac.uk/|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0422-7||2018|
 |viruses_classifier|https://github.com/wojciech-galan/viruses_classifier|https://www.nature.com/articles/s41598-019-39847-2|https://kazumaxneo.hatenablog.com/entry/2019/03/15/073000|2019|
 |VPF-Class|https://github.com/biocom-uib/vpf-tools|https://academic.oup.com/bioinformatics/article/37/13/1805/6104829||2021|
@@ -120,6 +119,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |vClassifier|https://github.com/AnantharamanLab/vClassifier|https://doi.org/10.1101/2024.05.28.596318|2024|
 |taxmyPHAGE|https://github.com/amillard/tax_myPHAGE/tree/main|https://www.biorxiv.org/content/10.1101/2024.08.09.606593v1|2024|
 |GVClass|https://github.com/NeLLi-team/gvclass|https://www.biorxiv.org/content/10.1101/2024.08.15.607234v1|2024|
+|GRAViTy-V2|https://github.com/Mayne941/gravity2|https://doi.org/10.1093/nargab/lqae183|2024|
 |VITAP|https://github.com/DrKaiyangZheng/VITAP|https://www.nature.com/articles/s41467-025-57500-7|2025|
 |Virgo|https://github.com/christopher-riccardi/Virgo|https://doi.org/10.1186/s40168-025-02159-x|2025|
 
