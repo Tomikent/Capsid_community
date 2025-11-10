@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2025-10-15 07:52:19.189285+09:00 -->
+<!-- The tables below were automatically generated at the 2025-11-11 08:32:52.376702+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -127,6 +127,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |GRAViTy-V2|https://github.com/Mayne941/gravity2|https://doi.org/10.1093/nargab/lqae183|2024|
 |VITAP|https://github.com/DrKaiyangZheng/VITAP|https://www.nature.com/articles/s41467-025-57500-7|2025|
 |Virgo|https://github.com/christopher-riccardi/Virgo|https://doi.org/10.1186/s40168-025-02159-x|2025|
+|vConTACT3|https://bitbucket.org/MAVERICLab/vcontact3|https://doi.org/10.1101/2025.11.06.686974|2025|
 
 
 ## 宿主予測 Host prediction
