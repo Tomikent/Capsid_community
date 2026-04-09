@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-03-24 09:05:49.052190+09:00 -->
+<!-- The tables below were automatically generated at the 2026-04-09 13:31:39.928988+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -214,4 +214,5 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |Plassembler|https://github.com/gbouras13/plassembler|https://doi.org/10.1093/bioinformatics/btad409||2023|
 |PLASMe |https://github.com/HubertTang/PLASMe|https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad578/7222081||2023|
 |MOSTPLAS |https://github.com/wzou96/MOSTPLAS|https://doi.org/10.1093/bioinformatics/btaf075||2025|
+|PlasAnn |https://plasann.rochester.edu/|https://doi.org/10.1093/nar/gkaf1507||2026|
 
