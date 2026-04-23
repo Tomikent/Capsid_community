@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-04-09 13:31:39.928988+09:00 -->
+<!-- The tables below were automatically generated at the 2026-04-23 20:43:21.344641+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -77,7 +77,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PharaCon||https://github.com/Celestial-Bai/PharaCon|https://doi.org/10.1093/bioinformatics/btaf085||2025|
 |ViralQC||https://github.com/ChengPENG-wolf/ViralQC|https://arxiv.org/abs/2504.05790||2025|
 |PIDE ||https://github.com/chyghy/PIDE|https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03733-0||2025|
-||
+|PhaBOX2 ||https://phage.ee.cityu.edu.hk/|https://doi.org/10.1093/nar/gkag382||2026|
 
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
