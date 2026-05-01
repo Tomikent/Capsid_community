@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-05-01 11:11:22.397242+09:00 -->
+<!-- The tables below were automatically generated at the 2026-05-01 11:17:36.314563+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -205,6 +205,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 ## プラスミド様配列の検出 Plasmid detection
 |Name|Link|Reference link|Kazumax(for Japanese beginner)|Release|Note|
 |:---|:---|:---|:---|:---|:---|
+|plasmidfinder |https://github.com/genomicepidemiology/plasmidfinder|https://doi.org/10.1128/aac.02412-14||2014|
 |RFplasmid|https://github.com/aldertzomer/RFPlasmid|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000683|https://kazumaxneo.hatenablog.com/entry/2020/09/29/233000|2021|
 |PlasFlow|https://github.com/smaegol/PlasFlow|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/05/11/073000|2018|
 |PlassClass|https://github.com/Shamir-Lab/PlasClass|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/10/21/073000|2020|
@@ -219,5 +220,4 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |gplas2/PlasmidEC |https://gitlab.com/mmb-umcu/gplas2|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001193||2024|
 |PlasMAAG |https://github.com/RasmussenLab/PlasMAAG|https://www.nature.com/articles/s41587-026-03005-7||2026|
 |MOB-suite |https://gitlab.com/mmb-umcu/gplas2|https://doi.org/10.1099/mgen.0.000206||2018|
-||
 
