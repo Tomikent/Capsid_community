@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-05-01 11:17:36.314563+09:00 -->
+<!-- The tables below were automatically generated at the 2026-06-01 10:39:53.598715+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -121,7 +121,6 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |VirClust|http://rhea.icbm.uni-oldenburg.de/virclust/|https://www.mdpi.com/1999-4915/15/4/1007|
 |PhamClust|https://github.com/chg60/phamclust|https://doi.org/10.1128/msystems.00443-23|2023|
 |MANIAC|https://github.com/bioinf-mcb/MANIAC|https://www.biorxiv.org/content/10.1101/2024.04.23.590796v1|2024|
-|vClassifier|https://github.com/AnantharamanLab/vClassifier|https://doi.org/10.1101/2024.05.28.596318|2024|
 |taxmyPHAGE|https://github.com/amillard/tax_myPHAGE/tree/main|https://www.biorxiv.org/content/10.1101/2024.08.09.606593v1|2024|
 |GVClass|https://github.com/NeLLi-team/gvclass|https://www.biorxiv.org/content/10.1101/2024.08.15.607234v1|2024|
 |GRAViTy-V2|https://github.com/Mayne941/gravity2|https://doi.org/10.1093/nargab/lqae183|2024|
@@ -131,6 +130,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |ViralClust|https://github.com/rnajena/viralclust| https://doi.org/10.64898/2026.01.30.702815|2025|
 |PhaGCN_Cluster|https://github.com/xiahaolong/PhaGCN_Cluster| https://link.springer.com/article/10.1007/s12539-026-00820-z|2026|
 |Vcat|https://github.com/Yasas1994/vcat|
+|vClassifier|https://github.com/AnantharamanLab/vClassifier| https://doi.org/10.1093/bioadv/vbag149|2026|
 
 
 ## 宿主予測 Host prediction
