@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-06-01 10:39:53.598715+09:00 -->
+<!-- The tables below were automatically generated at the 2026-06-17 07:25:03.126348+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -97,6 +97,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |VIBES|Prophage visualization |https://github.com/TravisWheelerLab/VIBES||https://www.biorxiv.org/content/10.1101/2023.10.17.562434v1|2023|
 |phold|gene anotation visualization |https://github.com/gbouras13/phold|https://www.biorxiv.org/content/10.1101/2025.08.05.668817v1||2024|
 |Empathi|gene anotation  |https://huggingface.co/AlexandreBoulay/EmPATHi|https://doi.org/10.1038/s41467-025-64177-5||2025|
+|EAGP|gene anotation  |https://github.com/Innerly/EAGP|https://doi.org/10.1093/bioinformatics/btag373||2026|
 ||
 ||
 ||
