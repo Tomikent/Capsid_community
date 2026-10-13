@@ -1,0 +1,37 @@
+name: check links
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 毎月1日 9:00 JST
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: check links
+        id: check
+        continue-on-error: true
+        run: python ./scripts/check_links.py link_report.md
+      - name: update issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE: リンク切れチェックの結果
+        run: |
+          gh label create link-check --color d73a4a --description "自動リンクチェック" 2>/dev/null || true
+          number=$(gh issue list --label link-check --state open --json number --jq '.[0].number')
+          if [ "${{ steps.check.outcome }}" = "failure" ]; then
+            if [ -n "$number" ]; then
+              gh issue edit "$number" --body-file link_report.md
+            else
+              gh issue create --title "$TITLE" --label link-check --body-file link_report.md
+            fi
+          elif [ -n "$number" ]; then
+            gh issue comment "$number" --body "リンク切れは見つからなくなったので閉じます。"
+            gh issue close "$number"
+          fi
