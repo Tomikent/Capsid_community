@@ -1,0 +1,22 @@
+name: validate TSV
+on:
+  push:
+    paths:
+      - '**.tsv'
+      - 'scripts/**'
+      - '.github/workflows/validate_tsv.yml'
+  pull_request:
+    paths:
+      - '**.tsv'
+      - 'scripts/**'
+      - '.github/workflows/validate_tsv.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: check TSV format
+        run: python ./scripts/validate_tsv.py
