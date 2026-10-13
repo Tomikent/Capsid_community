@@ -3,6 +3,13 @@
 </div>
 
 # Capsid Community
+
+> [!TIP]
+> **載っていないツールを見つけたら、フォームから教えてください（GitHub アカウントがあれば誰でも送れます）**  
+> **Know a tool that is missing? Tell us with a short form.**
+>
+> [![ツールを提案する / Suggest a tool](https://img.shields.io/badge/%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E6%8F%90%E6%A1%88%E3%81%99%E3%82%8B-Suggest%20a%20tool-2ea44f?style=for-the-badge)](https://github.com/Tomikent/Capsid_community/issues/new?template=add_tool.yml)
+
 近年、環境ウイルス分野のツールが数多く報告され、ツール選択は非常に困難です。
 このように類似ツールが群雄割拠している現状は、新規参入の障壁や研究間比較の難化など、分野の大きな問題になっていると考えられます。  
 Capsid Communityは、このような環境ウイルス分野のツールの情報をまとめ、(今後)比較することで、そのような課題を解決する場になることを目指したコミュニティです。
