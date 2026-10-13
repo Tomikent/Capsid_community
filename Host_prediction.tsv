@@ -6,16 +6,14 @@ VirHostMatcher-Net	https://github.com/WeiliWw/VirHostMatcher-Net	https://academi
 CHERRY	https://github.com/KennthShang/CHERRY	https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac182/6589865		2022	
 RaFAH	https://sourceforge.net/projects/rafah/	https://www.biorxiv.org/content/10.1101/2020.09.25.313155v1			
 HostPhinder	https://cge.cbs.dtu.dk/services/HostPhinder/	https://www.mdpi.com/1999-4915/8/5/116	https://kazumaxneo.hatenablog.com/entry/2018/08/31/164441		
-PHISDetector	https://github.com/HIT-ImmunologyLab/PHISDetector	https://www.sciencedirect.com/science/article/pii/S1672022922000171		2022	
+PHISDetector	https://github.com/HIT-ImmunologyLab/PHISDetector	https://www.sciencedirect.com/science/article/pii/S1672022922000171		2022	Web server: http://www.microbiome-bigdata.com/PHISDetector/
 vHULK	https://github.com/LaboratorioBioinformatica/vHULK	https://www.biorxiv.org/content/10.1101/2020.12.06.413476v1			
 ILMF-VH	https://github.com/liudan111/ILMF-VH	https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3082-0			
-PHISDetector	http://www.microbiome-bigdata.com/PHISDetector/	https://www.biorxiv.org/content/10.1101/661074v2			
 Host Taxon Predictor (HTP)	https://github.com/wojciech-galan/viruses_classifier	https://www.nature.com/articles/s41598-019-39847-2			
-ContigNet	https://github.com/tianqitang1/ContigNet	https://academic.oup.com/bioinformatics/article/38/Supplement_1/i45/6617519				
-VHost-Classifier	https://academic.oup.com/bioinformatics/article/35/19/3867/5368011	https://github.com/Kzra/VHost-Classifier		2019	
-ViralCC	https://www.nature.com/articles/s41467-023-35945-y	https://github.com/dyxstat/ViralCC		2023	
-EvoMIL	https://www.biorxiv.org/content/10.1101/2023.04.07.536023v1	https://github.com/liudan111/EvoMIL		2023	Not avaiable yet
-GSPHI	https://www.sciencedirect.com/science/article/pii/S2001037023002271	http://120.77.11.78/GSPHI/		2023	
-PHPGCA	https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011671	https://github.com/JunPeng-Zhong/PHPGCA		2023	
-EvoMIL 	https://doi.org/10.1371/journal.pcbi.1012597	https://github.com/liudan111/EvoMIL		2024	
-PHIStruct	https://doi.org/10.1093/bioinformatics/btaf016	https://github.com/bioinfodlsu/PHIStruct		2025	
+ContigNet	https://github.com/tianqitang1/ContigNet	https://academic.oup.com/bioinformatics/article/38/Supplement_1/i45/6617519			
+VHost-Classifier	https://github.com/Kzra/VHost-Classifier	https://academic.oup.com/bioinformatics/article/35/19/3867/5368011		2019	
+ViralCC	https://github.com/dyxstat/ViralCC	https://www.nature.com/articles/s41467-023-35945-y		2023	
+GSPHI	http://120.77.11.78/GSPHI/	https://www.sciencedirect.com/science/article/pii/S2001037023002271		2023	
+PHPGCA	https://github.com/JunPeng-Zhong/PHPGCA	https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011671		2023	
+EvoMIL	https://github.com/liudan111/EvoMIL	https://doi.org/10.1371/journal.pcbi.1012597		2024	
+PHIStruct	https://github.com/bioinfodlsu/PHIStruct	https://doi.org/10.1093/bioinformatics/btaf016		2025	
