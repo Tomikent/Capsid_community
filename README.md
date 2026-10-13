@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-10-13 19:22:28.960136+09:00 -->
+<!-- The tables below were automatically generated at the 2026-10-13 19:23:43.974539+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -199,7 +199,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |plasmidfinder|https://github.com/genomicepidemiology/plasmidfinder|https://doi.org/10.1128/aac.02412-14||2014|
 |RFplasmid|https://github.com/aldertzomer/RFPlasmid|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000683|https://kazumaxneo.hatenablog.com/entry/2020/09/29/233000|2021|
 |PlasFlow|https://github.com/smaegol/PlasFlow|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/05/11/073000|2018|
-|PlassClass|https://github.com/Shamir-Lab/PlasClass|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/10/21/073000|2020|
+|PlasClass|https://github.com/Shamir-Lab/PlasClass|https://doi.org/10.1371/journal.pcbi.1007781|https://kazumaxneo.hatenablog.com/entry/2019/10/21/073000|2020|
 |metaplasmidSPAdes|https://github.com/ablab/spades/releases|https://genome.cshlp.org/content/29/6/961.long|https://kazumaxneo.hatenablog.com/entry/2019/06/05/073000|2019|
 |PlasmidSeeker|https://github.com/bioinfo-ut/PlasmidSeeker|https://peerj.com/articles/4588/|https://kazumaxneo.hatenablog.com/entry/2018/05/28/203726|2018|
 |Recycler|https://github.com/Shamir-Lab/Recycler|https://academic.oup.com/bioinformatics/article/33/4/475/2623362|https://kazumaxneo.hatenablog.com/entry/2017/08/27/233654|2018|
@@ -210,5 +210,5 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PlasmidHunter|https://github.com/tianrenmaogithub/PlasmidHunter|https://doi.org/10.1101/2023.02.01.526640||2024|
 |gplas2/PlasmidEC|https://gitlab.com/mmb-umcu/gplas2|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001193||2024|
 |PlasMAAG|https://github.com/RasmussenLab/PlasMAAG|https://www.nature.com/articles/s41587-026-03005-7||2026|
-|MOB-suite|https://gitlab.com/mmb-umcu/gplas2|https://doi.org/10.1099/mgen.0.000206||2018|
+|MOB-suite|https://github.com/phac-nml/mob-suite|https://doi.org/10.1099/mgen.0.000206||2018|
 
