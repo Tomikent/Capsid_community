@@ -5,7 +5,8 @@
 # Capsid Community
 
 > [!TIP]
-> **載っていないツールを見つけたら、フォームから教えてください（GitHub アカウントがあれば誰でも送れます）**  
+> **載っていないツールを見つけたら、フォームから教えてください（GitHub アカウントがあれば誰でも送れます）**
+>
 > **Know a tool that is missing? Tell us with a short form.**
 >
 > [![ツールを提案する / Suggest a tool](https://img.shields.io/badge/%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E6%8F%90%E6%A1%88%E3%81%99%E3%82%8B-Suggest%20a%20tool-2ea44f?style=for-the-badge)](https://github.com/Tomikent/Capsid_community/issues/new?template=add_tool.yml)
