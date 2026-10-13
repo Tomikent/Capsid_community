@@ -1,0 +1,72 @@
+name: ツールの追加提案 / Suggest a tool
+description: リストに載せたいツールを教えてください / Suggest a tool to add to the list
+title: "[ツール追加] "
+labels: ["new tool"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        わかる範囲で入力してください。必須は「カテゴリ」「ツール名」「リンク」だけです。
+        Please fill in what you know. Only category, name and link are required.
+  - type: dropdown
+    id: category
+    attributes:
+      label: カテゴリ / Category
+      options:
+        - ウイルス（ファージ）配列の予測 / Prediction of viral and prophage sequences
+        - ゲノム(遺伝子)アノテーション / Genome/gene annotation
+        - 系統分類 / Taxonomic classification
+        - 宿主予測 / Host prediction
+        - 防御遺伝子の同定 / Identification of host defense
+        - データベース / Database
+        - プラスミド様配列の検出 / Plasmid detection
+        - わからない / Not sure
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: ツール名 / Tool name
+      placeholder: "例: VirSorter2"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: リンク（GitHub や Web サーバ）/ Link (code or web server)
+      placeholder: "例: https://github.com/jiarong/VirSorter2"
+    validations:
+      required: true
+  - type: input
+    id: reference
+    attributes:
+      label: 論文のリンク（DOI 推奨）/ Paper (DOI preferred)
+      placeholder: "例: https://doi.org/10.1186/s40168-020-00990-y"
+  - type: input
+    id: release
+    attributes:
+      label: 発表年 / Release year
+      placeholder: "例: 2021"
+  - type: input
+    id: kazumax
+    attributes:
+      label: kazumaxneo さんのブログ記事（あれば）/ Kazumax blog post (if any)
+      placeholder: "例: https://kazumaxneo.hatenablog.com/entry/..."
+  - type: dropdown
+    id: prophage
+    attributes:
+      label: プロファージ検出に対応？（ウイルス配列の予測ツールのみ）/ Prophage detection? (virus prediction tools only)
+      options:
+        - わからない / Not sure
+        - ○ 対応 / Yes
+        - ☓ 非対応 / No
+  - type: input
+    id: type
+    attributes:
+      label: 種類（アノテーション・データベースのみ）/ Type (annotation and database only)
+      placeholder: "例: gene annotation, Orthologue db"
+  - type: textarea
+    id: note
+    attributes:
+      label: メモ / Note
+      description: 特徴や注意点など（短く）/ Features or caveats (short)
