@@ -14,7 +14,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 (This community is supported by members of the Environmental Virus Research Group of the Japanese Society of Microbial Ecology)
 
 # Tools
-<!-- The tables below were automatically generated at the 2026-10-13 19:18:51.205137+09:00 -->
+<!-- The tables below were automatically generated at the 2026-10-13 19:22:28.960136+09:00 -->
 
 ## ウイルス（ファージ）配列の予測(Prediction of viral and prophage sequences)
 |Name|Prophage detection|Link|Reference link|Kazumax|Release|Note|
@@ -24,7 +24,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |VIBRANT|○|https://github.com/AnantharamanLab/VIBRANT|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00867-0|https://kazumaxneo.hatenablog.com/entry/2020/06/14/175750|2021|AMG prediction|
 |VirSorter|○|https://github.com/simroux/VirSorter|https://peerj.com/articles/985/|https://kazumaxneo.hatenablog.com/entry/2019/01/10/103631|2015|
 |PPR-Meta||https://github.com/zhenchengfang/PPR-Meta|https://academic.oup.com/gigascience/article/8/6/giz066/5521157|https://kazumaxneo.hatenablog.com/entry/2019/10/09/234533|2019|
-|Prophinder|○| http://aclame.ulb.ac.be/prophinder|https://academic.oup.com/bioinformatics/article/24/6/863/194494||2008|
+|Prophinder|○|http://aclame.ulb.ac.be/prophinder|https://academic.oup.com/bioinformatics/article/24/6/863/194494||2008|
 |Phage_Finder||http://phage-finder.sourceforge.net/|https://academic.oup.com/nar/article/34/20/5839/3100473||2006|
 |PhiSpy|○|https://github.com/linsalrob/PhiSpy|https://academic.oup.com/nar/article/40/16/e126/1027055||2012|
 |PHASTER|○|https://phaster.ca/|https://academic.oup.com/nar/article/44/W1/W16/2499364||2016|PHAST, PHASTER and PHASTESTみたいな論文はあるが実際にはPHASTESTは全くリリースされていない(開発中？)|
@@ -36,12 +36,12 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |VirMiner||https://github.com/TingtZHENG/VirMiner|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0657-y|https://kazumaxneo.hatenablog.com/entry/2019/06/03/221724|
 |RabbitV||https://github.com/RabbitBio/RabbitUniq|https://academic.oup.com/bioinformatics/article/38/10/2932/6554196|https://kazumaxneo.hatenablog.com/entry/2022/04/30/004538|2022|
 |viralFlye||https://github.com/Dmitry-Antipov/viralFlye|https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02566-x|https://kazumaxneo.hatenablog.com/entry/2022/02/24/234605|2022|ロングリード|
-|fastv||https://github.com/OpenGene/fastv|https://academic.oup.com/bib/article/22/2/924/5917007]|https://kazumaxneo.hatenablog.com/entry/2021/07/10/224445|2021|Not for phages?|
+|fastv||https://github.com/OpenGene/fastv|https://academic.oup.com/bib/article/22/2/924/5917007|https://kazumaxneo.hatenablog.com/entry/2021/07/10/224445|2021|Not for phages?|
 |CheckV||https://bitbucket.org/berkeleylab/CheckV|https://www.nature.com/articles/s41587-020-00774-7|https://kazumaxneo.hatenablog.com/entry/2020/05/09/073000|2021|quality check|
 |metaviralSPAdes||https://github.com/ablab/spades/tree/metaviral_publication||https://kazumaxneo.hatenablog.com/entry/2020/05/23/235524||viralVerify|
 |ViralRecall||https://github.com/faylward/viralrecall|https://www.mdpi.com/1999-4915/13/2/150||2021|NCLDV|
 |ViBE||https://github.com/DMnBI/ViBE|https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbac204||2022|eukaryotic|
-|hafeZ|○|https://github.com/Chrisjrt/hafeZ.|https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1||2021|
+|hafeZ|○|https://github.com/Chrisjrt/hafeZ|https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1||2021|
 |Phigaro|○|https://github.com/bobeobibo/phigaro|https://academic.oup.com/bioinformatics/article/36/12/3882/5822875||2020|
 |PhageBoost|○|https://github.com/ku-cbd/PhageBoost|https://academic.oup.com/nargab/article/3/1/lqaa109/6066536#222619888||2020|
 |DBSCAN-SWA|○|https://github.com/HIT-ImmunologyLab/DBSCAN-SWA/|https://www.frontiersin.org/articles/10.3389/fgene.2022.885048/full|https://kazumaxneo.hatenablog.com/entry/2020/08/20/230110|2022|
@@ -51,7 +51,6 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |vRhyme||https://github.com/AnantharamanLab/vRhyme|https://academic.oup.com/nar/article/50/14/e83/6584432|||binning|
 |Prophage Hunter||https://pro-hunter.bgi.com/|https://academic.oup.com/nar/article/47/W1/W74/5494712||2019|
 |MetaPhage||https://github.com/MattiaPandolfoVR/MetaPhage|https://journals.asm.org/doi/10.1128/msystems.00741-22||2022|
-|Deep6||https://github.com/janfelix/Deep6|https://www.biorxiv.org/content/10.1101/2022.09.13.507819v1||2022|Metatranscriptomic Sequences|
 |Phanta||https://github.com/bhattlab/phanta|https://www.biorxiv.org/content/10.1101/2022.08.05.502982v1||2022|
 |ViromeQC||https://github.com/SegataLab/viromeqc|https://www.nature.com/articles/s41587-019-0334-5||2022|Detecting contamination in viromes|
 |PropagAtE|○|https://github.com/AnantharamanLab/PropagAtE|https://journals.asm.org/doi/10.1128/msystems.00084-22||2022|Detecting active prophages|
@@ -60,7 +59,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |SourceFinder||https://cge.food.dtu.dk/services/SourceFinder/|https://journals.asm.org/doi/10.1128/spectrum.02641-22||2022|Identification of Chromosomal, Plasmid, and Bacteriophage Sequences|
 |genomad||https://portal.nersc.gov/genomad/|https://www.nature.com/articles/s41587-023-01953-y||2022|Used in IMG/VR ver4|
 |FastViromeExplorer-Novel||https://github.com/saima-tithi/FVE-novel|https://doi.org/10.1089/cmb.2022.0397||2023|
-|Deep6||https://github.com/janfelix/Deep6|https://journals.asm.org/doi/10.1128/mra.01079-22||2023|
+|Deep6||https://github.com/janfelix/Deep6|https://journals.asm.org/doi/10.1128/mra.01079-22||2023|Metatranscriptomic Sequences|
 |ViWrap||https://github.com/AnantharamanLab/ViWrap|https://onlinelibrary.wiley.com/doi/10.1002/imt2.118||2023|
 |VirBot||https://github.com/GreyGuoweiChen/RNA_virus_detector|https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad093/7043093||2023|
 |seeker||https://github.com/gussow/seeker|https://doi.org/10.1093/nar/gkaa856||2020|
@@ -76,9 +75,9 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |VirMake||https://github.com/Rounge-lab/VirMake|https://doi.org/10.1101/2025.02.07.637044||2025|
 |PharaCon||https://github.com/Celestial-Bai/PharaCon|https://doi.org/10.1093/bioinformatics/btaf085||2025|
 |ViralQC||https://github.com/ChengPENG-wolf/ViralQC|https://arxiv.org/abs/2504.05790||2025|
-|PIDE ||https://github.com/chyghy/PIDE|https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03733-0||2025|
-|PhaBOX2 ||https://phage.ee.cityu.edu.hk/|https://doi.org/10.1093/nar/gkag382||2026|
-|VirusHunterGatherer ||https://github.com/lauberlab/VirusHunterGatherer|https://doi.org/10.1093/nargab/lqag120||2026|
+|PIDE||https://github.com/chyghy/PIDE|https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03733-0||2025|
+|PhaBOX2||https://phage.ee.cityu.edu.hk/|https://doi.org/10.1093/nar/gkag382||2026|
+|VirusHunterGatherer||https://github.com/lauberlab/VirusHunterGatherer|https://doi.org/10.1093/nargab/lqag120||2026|
 
 
 ## ゲノム(遺伝子)アノテーション(Genome/gene annotation tools)
@@ -87,18 +86,18 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |DRAM|AMG setection|https://github.com/WrightonLabCSU/DRAM|https://academic.oup.com/nar/article/48/16/8883/5884738|https://kazumaxneo.hatenablog.com/entry/2022/02/10/000615|2020|
 |VIBRANT|AMG prediction|https://github.com/AnantharamanLab/VIBRANT|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00867-0|https://kazumaxneo.hatenablog.com/entry/2020/06/14/175750|2021|
 |MetaPop|population analysis|https://github.com/metaGmetapop/metapop|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01231-0|https://kazumaxneo.hatenablog.com/entry/2021/03/04/084538|2022|
-|VIGOR|gene anotation|https://github.com/JCVenterInstitute/VIGOR4|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-451|https://kazumaxneo.hatenablog.com/entry/2020/11/13/225137|2022(latest)|Eukaryotic virus?|
+|VIGOR|gene anotation|https://github.com/JCVenterInstitute/VIGOR4|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-451|https://kazumaxneo.hatenablog.com/entry/2020/11/13/225137|2022|Latest release 2022. Eukaryotic virus?|
 |VADR|gene anotation|https://github.com/nawrockie/vadr|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3537-3||2020|
 |pharokka|gene anotation|https://github.com/gbouras13/pharokka||https://kazumaxneo.hatenablog.com/entry/2022/07/03/220509||PHANOTATE×PHROGs|
 |PHANOTATE|gene prediction|https://github.com/deprekate/PHANOTATE|https://academic.oup.com/bioinformatics/article/35/22/4537/5480131|https://kazumaxneo.hatenablog.com/entry/2019/05/30/073000|
 |MetaPhage|gene anotation|https://github.com/MattiaPandolfoVR/MetaPhage|https://www.biorxiv.org/content/10.1101/2022.04.17.488583v1|https://kazumaxneo.hatenablog.com/entry/2022/04/23/124539|
 |VirionFinder|virion proteins identification|https://github.com/zhenchengfang/VirionFinder|https://www.frontiersin.org/articles/10.3389/fmicb.2021.615711/full||2021|
-|Phynteny|Synteny-based annotation|https://github.com/susiegriggo/Phynteny|| https://doi.org/10.1101/2025.07.28.667340|2023|
-|VAPEX|web server for genome analysis|https://archaea.i2bc.paris-saclay.fr/vapex/||https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad528/7251032|2023|
-|VIBES|Prophage visualization |https://github.com/TravisWheelerLab/VIBES||https://www.biorxiv.org/content/10.1101/2023.10.17.562434v1|2023|
-|phold|gene anotation visualization |https://github.com/gbouras13/phold|https://www.biorxiv.org/content/10.1101/2025.08.05.668817v1||2024|
-|Empathi|gene anotation  |https://huggingface.co/AlexandreBoulay/EmPATHi|https://doi.org/10.1038/s41467-025-64177-5||2025|
-|EAGP|gene anotation  |https://github.com/Innerly/EAGP|https://doi.org/10.1093/bioinformatics/btag373||2026|
+|Phynteny|Synteny-based annotation|https://github.com/susiegriggo/Phynteny|https://doi.org/10.1101/2025.07.28.667340||2023|
+|VAPEX|web server for genome analysis|https://archaea.i2bc.paris-saclay.fr/vapex/|https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad528/7251032||2023|
+|VIBES|Prophage visualization|https://github.com/TravisWheelerLab/VIBES|https://www.biorxiv.org/content/10.1101/2023.10.17.562434v1||2023|
+|phold|gene anotation visualization|https://github.com/gbouras13/phold|https://www.biorxiv.org/content/10.1101/2025.08.05.668817v1||2024|
+|Empathi|gene anotation|https://huggingface.co/AlexandreBoulay/EmPATHi|https://doi.org/10.1038/s41467-025-64177-5||2025|
+|EAGP|gene anotation|https://github.com/Innerly/EAGP|https://doi.org/10.1093/bioinformatics/btag373||2026|
 
 
 ## 配列のClassification (系統分類) Taxonomic classification of viral sequences
@@ -106,28 +105,28 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |:---|:---|:---|:---|:---|:---|
 |Vcontact2|https://bitbucket.org/MAVERICLab/vcontact2/wiki/Home|https://www.nature.com/articles/s41587-019-0100-8|https://kazumaxneo.hatenablog.com/entry/2019/09/21/235859|2019|
 |ViPTree|https://www.genome.jp/viptree/|https://academic.oup.com/bioinformatics/article/33/15/2379/3096426||2017|
-|VICTOR|https://ggdc.dsmz.de/victor.php||https://academic.oup.com/bioinformatics/article/33/21/3396/3933260|2017|
+|VICTOR|https://ggdc.dsmz.de/victor.php|https://academic.oup.com/bioinformatics/article/33/21/3396/3933260||2017|
 |VIRIDIC|http://rhea.icbm.uni-oldenburg.de/VIRIDIC/|https://www.mdpi.com/1999-4915/12/11/1268||2020|
 |GRAViTy|http://gravity.cvr.gla.ac.uk/|https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0422-7||2018|
 |viruses_classifier|https://github.com/wojciech-galan/viruses_classifier|https://www.nature.com/articles/s41598-019-39847-2|https://kazumaxneo.hatenablog.com/entry/2019/03/15/073000|2019|
 |VPF-Class|https://github.com/biocom-uib/vpf-tools|https://academic.oup.com/bioinformatics/article/37/13/1805/6104829||2021|
 |Classiphage|http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.mdpi.com/1999-4915/11/2/195|
-|VIRify|https://github.com/EBI-Metagenomics/emg-viral-pipelinee|
+|VIRify|https://github.com/EBI-Metagenomics/emg-viral-pipeline|
 |ClassiPhages 2.0|http://appmibio.uni-goettingen.de/index.php?sec=sw|https://www.biorxiv.org/content/10.1101/558171v1|
 |PhageClouds|https://phageclouds.ku.dk/|https://www.liebertpub.com/doi/full/10.1089/phage.2021.0008|
 |VirClust|http://rhea.icbm.uni-oldenburg.de/virclust/|https://www.mdpi.com/1999-4915/15/4/1007|
-|PhamClust|https://github.com/chg60/phamclust|https://doi.org/10.1128/msystems.00443-23|2023|
-|MANIAC|https://github.com/bioinf-mcb/MANIAC|https://www.biorxiv.org/content/10.1101/2024.04.23.590796v1|2024|
-|taxmyPHAGE|https://github.com/amillard/tax_myPHAGE/tree/main|https://www.biorxiv.org/content/10.1101/2024.08.09.606593v1|2024|
-|GVClass|https://github.com/NeLLi-team/gvclass|https://www.biorxiv.org/content/10.1101/2024.08.15.607234v1|2024|
-|GRAViTy-V2|https://github.com/Mayne941/gravity2|https://doi.org/10.1093/nargab/lqae183|2024|
-|VITAP|https://github.com/DrKaiyangZheng/VITAP|https://www.nature.com/articles/s41467-025-57500-7|2025|
-|Virgo|https://github.com/christopher-riccardi/Virgo|https://doi.org/10.1186/s40168-025-02159-x|2025|
-|vConTACT3|https://bitbucket.org/MAVERICLab/vcontact3|https://doi.org/10.1101/2025.11.06.686974|2025|
-|ViralClust|https://github.com/rnajena/viralclust| https://doi.org/10.64898/2026.01.30.702815|2025|
-|PhaGCN_Cluster|https://github.com/xiahaolong/PhaGCN_Cluster| https://link.springer.com/article/10.1007/s12539-026-00820-z|2026|
+|PhamClust|https://github.com/chg60/phamclust|https://doi.org/10.1128/msystems.00443-23||2023|
+|MANIAC|https://github.com/bioinf-mcb/MANIAC|https://www.biorxiv.org/content/10.1101/2024.04.23.590796v1||2024|
+|taxmyPHAGE|https://github.com/amillard/tax_myPHAGE/tree/main|https://www.biorxiv.org/content/10.1101/2024.08.09.606593v1||2024|
+|GVClass|https://github.com/NeLLi-team/gvclass|https://www.biorxiv.org/content/10.1101/2024.08.15.607234v1||2024|
+|GRAViTy-V2|https://github.com/Mayne941/gravity2|https://doi.org/10.1093/nargab/lqae183||2024|
+|VITAP|https://github.com/DrKaiyangZheng/VITAP|https://www.nature.com/articles/s41467-025-57500-7||2025|
+|Virgo|https://github.com/christopher-riccardi/Virgo|https://doi.org/10.1186/s40168-025-02159-x||2025|
+|vConTACT3|https://bitbucket.org/MAVERICLab/vcontact3|https://doi.org/10.1101/2025.11.06.686974||2025|
+|ViralClust|https://github.com/rnajena/viralclust|https://doi.org/10.64898/2026.01.30.702815||2025|
+|PhaGCN_Cluster|https://github.com/xiahaolong/PhaGCN_Cluster|https://link.springer.com/article/10.1007/s12539-026-00820-z||2026|
 |Vcat|https://github.com/Yasas1994/vcat|
-|vClassifier|https://github.com/AnantharamanLab/vClassifier| https://doi.org/10.1093/bioadv/vbag149|2026|
+|vClassifier|https://github.com/AnantharamanLab/vClassifier|https://doi.org/10.1093/bioadv/vbag149||2026|
 
 
 ## 宿主予測 Host prediction
@@ -140,19 +139,17 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |CHERRY|https://github.com/KennthShang/CHERRY|https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac182/6589865||2022|
 |RaFAH|https://sourceforge.net/projects/rafah/|https://www.biorxiv.org/content/10.1101/2020.09.25.313155v1|
 |HostPhinder|https://cge.cbs.dtu.dk/services/HostPhinder/|https://www.mdpi.com/1999-4915/8/5/116|https://kazumaxneo.hatenablog.com/entry/2018/08/31/164441|
-|PHISDetector|https://github.com/HIT-ImmunologyLab/PHISDetector|https://www.sciencedirect.com/science/article/pii/S1672022922000171||2022|
+|PHISDetector|https://github.com/HIT-ImmunologyLab/PHISDetector|https://www.sciencedirect.com/science/article/pii/S1672022922000171||2022|Web server: http://www.microbiome-bigdata.com/PHISDetector/|
 |vHULK|https://github.com/LaboratorioBioinformatica/vHULK|https://www.biorxiv.org/content/10.1101/2020.12.06.413476v1|
 |ILMF-VH|https://github.com/liudan111/ILMF-VH|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3082-0|
-|PHISDetector|http://www.microbiome-bigdata.com/PHISDetector/|https://www.biorxiv.org/content/10.1101/661074v2|
 |Host Taxon Predictor (HTP)|https://github.com/wojciech-galan/viruses_classifier|https://www.nature.com/articles/s41598-019-39847-2|
 |ContigNet|https://github.com/tianqitang1/ContigNet|https://academic.oup.com/bioinformatics/article/38/Supplement_1/i45/6617519|
-|VHost-Classifier|https://academic.oup.com/bioinformatics/article/35/19/3867/5368011|https://github.com/Kzra/VHost-Classifier||2019|
-|ViralCC|https://www.nature.com/articles/s41467-023-35945-y|https://github.com/dyxstat/ViralCC||2023|
-|EvoMIL|https://www.biorxiv.org/content/10.1101/2023.04.07.536023v1|https://github.com/liudan111/EvoMIL||2023|Not avaiable yet|
-|GSPHI|https://www.sciencedirect.com/science/article/pii/S2001037023002271|http://120.77.11.78/GSPHI/||2023|
-|PHPGCA|https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011671|https://github.com/JunPeng-Zhong/PHPGCA||2023|
-|EvoMIL |https://doi.org/10.1371/journal.pcbi.1012597|https://github.com/liudan111/EvoMIL||2024|
-|PHIStruct|https://doi.org/10.1093/bioinformatics/btaf016|https://github.com/bioinfodlsu/PHIStruct||2025|
+|VHost-Classifier|https://github.com/Kzra/VHost-Classifier|https://academic.oup.com/bioinformatics/article/35/19/3867/5368011||2019|
+|ViralCC|https://github.com/dyxstat/ViralCC|https://www.nature.com/articles/s41467-023-35945-y||2023|
+|GSPHI|http://120.77.11.78/GSPHI/|https://www.sciencedirect.com/science/article/pii/S2001037023002271||2023|
+|PHPGCA|https://github.com/JunPeng-Zhong/PHPGCA|https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011671||2023|
+|EvoMIL|https://github.com/liudan111/EvoMIL|https://doi.org/10.1371/journal.pcbi.1012597||2024|
+|PHIStruct|https://github.com/bioinfodlsu/PHIStruct|https://doi.org/10.1093/bioinformatics/btaf016||2025|
 
 
 ## 防御遺伝子の同定 Identification of host defense
@@ -166,8 +163,7 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |CRISPRCasTyper|https://crisprcastyper.crispr.dk/|https://www.liebertpub.com/doi/10.1089/crispr.2020.0059|
 |AcrFinder|https://bcb.unl.edu/AcrFinder/|https://academic.oup.com/nar/article/48/W1/W358/5836766||2020|
 |SpacePHARER|https://github.com/soedinglab/spacepharer|https://academic.oup.com/bioinformatics/article/37/19/3364/6207963||2021|
-|CRT|http://www.room220.com/crt//|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-209||2007|
-|PILER-CR|http://www.drive5.com/pilercr.|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-18||2007|
+|PILER-CR|http://www.drive5.com/pilercr/|https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-18||2007|
 |CRISPRleader|https://github.com/BackofenLab/CRISPRleader|https://doi.org/10.1093/bioinformatics/btw454||2016|
 |PADLOC|https://github.com/padlocbio/padloc|https://doi.org/10.1093/nar/gkac400||2022|
 |DefenseFinder|https://github.com/mdmparis/defense-finder|https://www.nature.com/articles/s41467-022-30269-9||2022|
@@ -180,39 +176,39 @@ The “Capsid Community” aims to be a place where such issues can be resolved 
 |PHROG|Orthologue db|https://phrogs.lmge.uca.fr/|https://academic.oup.com/nargab/article/3/3/lqab067/6342220|2021|MMseqs2/hhblits search|
 |pVOGs|Orthologue db|http://dmk-brain.ecn.uiowa.edu/pVOGs/downloads.html|https://academic.oup.com/nar/article/45/D1/D491/2333930|2016|Link expired?|
 |Virus-Host DB|Host / Genomes|https://www.genome.jp/virushostdb/|https://www.mdpi.com/1999-4915/8/3/66|2022|
-|ICTV|Taxonomy|https://ictv.global/taxonomy|https://academic.oup.com/nar/article/46/D1/D708/4508876|2021(initial 2018)|
+|ICTV|Taxonomy|https://ictv.global/taxonomy|https://academic.oup.com/nar/article/46/D1/D708/4508876|2021|Initial release 2018|
 |IMG/VR|Genomes|https://img.jgi.doe.gov/vr|https://academic.oup.com/nar/article/49/D1/D764/5952208|2021|
 |IVirus|pipeline/tools|https://www.ivirus.us/|https://www.nature.com/articles/s43705-021-00083-3|2021|ver2|
 |VirHostNet|virus/host molecular interactions|https://virhostnet.prabi.fr/|https://academic.oup.com/nar/article/43/D1/D583/2437900|2022|ver3|
 |CRISPRCasdb|CRISPR cas|https://crisprcas.i2bc.paris-saclay.fr/|https://academic.oup.com/nar/article/48/D1/D535/5590637|2019|
 |CrisprOpenDB|CRISPR cas|https://github.com/edzuf/CrisprOpenDB|https://academic.oup.com/nar/article/49/6/3127/6157093#233788514|2021|
-|inphared|Genomes|https://github.com/RyanCook94/inphared)|https://www.liebertpub.com/doi/10.1089/phage.2021.0007|2021|
+|inphared|Genomes|https://github.com/RyanCook94/inphared|https://www.liebertpub.com/doi/10.1089/phage.2021.0007|2021|
 |VOG db|Orthologue db|https://vogdb.org/|
 |VPFs|Orthologue db|https://portal.nersc.gov/dna/microbial/prokpubs/EarthVirome_DP/|https://www.nature.com/articles/nprot.2017.063|
 |efam|Orthologue db|https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Zayed_efam_2020.1|https://academic.oup.com/bioinformatics/article/37/22/4202/6300514#312931372|
 |ViPhOGs|Orthologue db|https://osf.io/2zd9r/|https://www.mdpi.com/1999-4915/13/6/1164|
 |PhageScope|annotation db|https://phagescope.deepomics.org/|https://doi.org/10.1093/nar/gkad979|
 |PhageDive|meta db|https://phagedive.dsmz.de/|https://doi.org/10.1093/nar/gkae878|
-|VIRE|genome db| https://vire.embl.de|https://doi.org/10.1093/nar/gkaf1225|
-|VirJenDB|Taxonomy/Genome| https://virjendb.org| https://doi.org/10.1093/nar/gkaf1224|
+|VIRE|genome db|https://vire.embl.de|https://doi.org/10.1093/nar/gkaf1225|
+|VirJenDB|Taxonomy/Genome|https://virjendb.org|https://doi.org/10.1093/nar/gkaf1224|
 
 
 ## プラスミド様配列の検出 Plasmid detection
 |Name|Link|Reference link|Kazumax(for Japanese beginner)|Release|Note|
 |:---|:---|:---|:---|:---|:---|
-|plasmidfinder |https://github.com/genomicepidemiology/plasmidfinder|https://doi.org/10.1128/aac.02412-14||2014|
+|plasmidfinder|https://github.com/genomicepidemiology/plasmidfinder|https://doi.org/10.1128/aac.02412-14||2014|
 |RFplasmid|https://github.com/aldertzomer/RFPlasmid|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000683|https://kazumaxneo.hatenablog.com/entry/2020/09/29/233000|2021|
 |PlasFlow|https://github.com/smaegol/PlasFlow|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/05/11/073000|2018|
 |PlassClass|https://github.com/Shamir-Lab/PlasClass|https://academic.oup.com/nar/article/46/6/e35/4807335|https://kazumaxneo.hatenablog.com/entry/2019/10/21/073000|2020|
-|metaplasmidSPAdes |https://github.com/ablab/spades/releases|https://genome.cshlp.org/content/29/6/961.long|https://kazumaxneo.hatenablog.com/entry/2019/06/05/073000|2019|
+|metaplasmidSPAdes|https://github.com/ablab/spades/releases|https://genome.cshlp.org/content/29/6/961.long|https://kazumaxneo.hatenablog.com/entry/2019/06/05/073000|2019|
 |PlasmidSeeker|https://github.com/bioinfo-ut/PlasmidSeeker|https://peerj.com/articles/4588/|https://kazumaxneo.hatenablog.com/entry/2018/05/28/203726|2018|
 |Recycler|https://github.com/Shamir-Lab/Recycler|https://academic.oup.com/bioinformatics/article/33/4/475/2623362|https://kazumaxneo.hatenablog.com/entry/2017/08/27/233654|2018|
 |Plassembler|https://github.com/gbouras13/plassembler|https://doi.org/10.1093/bioinformatics/btad409||2023|
-|PLASMe |https://github.com/HubertTang/PLASMe|https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad578/7222081||2023|
-|MOSTPLAS |https://github.com/wzou96/MOSTPLAS|https://doi.org/10.1093/bioinformatics/btaf075||2025|
-|PlasAnn |https://plasann.rochester.edu/|https://doi.org/10.1093/nar/gkaf1507||2026|
-|PlasmidHunter |https://github.com/tianrenmaogithub/PlasmidHunter|https://doi.org/10.1101/2023.02.01.526640||2024|
-|gplas2/PlasmidEC |https://gitlab.com/mmb-umcu/gplas2|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001193||2024|
-|PlasMAAG |https://github.com/RasmussenLab/PlasMAAG|https://www.nature.com/articles/s41587-026-03005-7||2026|
-|MOB-suite |https://gitlab.com/mmb-umcu/gplas2|https://doi.org/10.1099/mgen.0.000206||2018|
+|PLASMe|https://github.com/HubertTang/PLASMe|https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad578/7222081||2023|
+|MOSTPLAS|https://github.com/wzou96/MOSTPLAS|https://doi.org/10.1093/bioinformatics/btaf075||2025|
+|PlasAnn|https://plasann.rochester.edu/|https://doi.org/10.1093/nar/gkaf1507||2026|
+|PlasmidHunter|https://github.com/tianrenmaogithub/PlasmidHunter|https://doi.org/10.1101/2023.02.01.526640||2024|
+|gplas2/PlasmidEC|https://gitlab.com/mmb-umcu/gplas2|https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001193||2024|
+|PlasMAAG|https://github.com/RasmussenLab/PlasMAAG|https://www.nature.com/articles/s41587-026-03005-7||2026|
+|MOB-suite|https://gitlab.com/mmb-umcu/gplas2|https://doi.org/10.1099/mgen.0.000206||2018|
 
